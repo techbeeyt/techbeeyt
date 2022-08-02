@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/techbeeyt/techbeeyt/e231486802e68b325816908e406dfcba39fae7e1/20220802_043948.gif" />
   <h2>Expert on</h2>
   <ul>
-    <li><img src="https://raw.githubusercontent.com/techbeeyt/techbeeyt/main/html.png" width="20px"/></li>
+    <li><img src="https://raw.githubusercontent.com/techbeeyt/techbeeyt/main/html.png"/></li>
     <li>CSS 3</li>
     <li>HTML</li>
     <li>HTML</li>
