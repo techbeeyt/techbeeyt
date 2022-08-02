@@ -4,8 +4,8 @@
   <img src="https://raw.githubusercontent.com/techbeeyt/techbeeyt/e231486802e68b325816908e406dfcba39fae7e1/20220802_043948.gif" />
   <h2>Expert on</h2>
   <table>
-    <tr colspan="2">
-      FrontEnd
+    <tr>
+      <td colspan="2">FrontEnd</td>
     </tr>
     <tr>
       <td>
