@@ -5,7 +5,7 @@
   <h2>Expert on</h2>
   <table>
     <tr>
-      <td colspan="2">FrontEnd</td>
+      <td colspan="2">Frontend and Backend</td>
     </tr>
     <tr>
       <td>
