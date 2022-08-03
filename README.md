@@ -1,7 +1,7 @@
 <div>
   <h1>Hello Developers!</h1>
   <h2>This is Montasir Mahmud's Github Profile</h2>
-  <img align="center" src="https://raw.githubusercontent.com/techbeeyt/techbeeyt/e231486802e68b325816908e406dfcba39fae7e1/20220802_043948.gif" />
+  <div  align="center"><img src="https://raw.githubusercontent.com/techbeeyt/techbeeyt/e231486802e68b325816908e406dfcba39fae7e1/20220802_043948.gif" /> </div>
   <h1>Expert on</h1>
   <table>
     <tr>
