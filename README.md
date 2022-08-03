@@ -1,7 +1,9 @@
-<div>
+<div align="center">
   <h1>Hello Developers!</h1>
-  <h2>This is Montasir Mahmud's Github Profile</h2>
-  <div  align="center"><img src="https://raw.githubusercontent.com/techbeeyt/techbeeyt/e231486802e68b325816908e406dfcba39fae7e1/20220802_043948.gif" /> </div>
+  <div  align="center">
+    <img src="https://raw.githubusercontent.com/techbeeyt/techbeeyt/e231486802e68b325816908e406dfcba39fae7e1/20220802_043948.gif" />
+    <img src="https://raw.githubusercontent.com/techbeeyt/techbeeyt/main/expartOn.png" witdth="250px" />
+  </div>
   <h1>Expert on</h1>
   <table>
     <tr>
@@ -9,7 +11,7 @@
     </tr>
     <tr>
       <td>
-        <img src="https://raw.githubusercontent.com/techbeeyt/techbeeyt/main/expartOn.png" witdth="250px" />
+        <img src="https://raw.githubusercontent.com/techbeeyt/techbeeyt/main/expartOn.png" witdth="500px" />
       </td>
       <td>
         <h3>And Learning Many more things...</h3>
