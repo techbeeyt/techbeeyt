@@ -5,7 +5,7 @@
   <h1>Expert on</h1>
   <table>
     <tr>
-      <td colspan="2"><h2>Web Technologies I expert on:</h2></td>
+      <td colspan="2"><h2>Web Technologies I use:</h2></td>
     </tr>
     <tr>
       <td>
