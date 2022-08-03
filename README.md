@@ -1,9 +1,7 @@
 <div align="center">
   <h1>Hello Developers!</h1>
-  <div  align="center">
-    <img src="https://raw.githubusercontent.com/techbeeyt/techbeeyt/e231486802e68b325816908e406dfcba39fae7e1/20220802_043948.gif" />
-    <img src="https://raw.githubusercontent.com/techbeeyt/techbeeyt/main/expartOn.png" witdth="250px" />
-  </div>
+  <img src="https://raw.githubusercontent.com/techbeeyt/techbeeyt/e231486802e68b325816908e406dfcba39fae7e1/20220802_043948.gif" />
+  <div></div>
   <h1>Expert on</h1>
   <table>
     <tr>
